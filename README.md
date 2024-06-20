@@ -8,5 +8,5 @@
 - Responsive 
 - Dark Mode
 
-# Chỉ 1 file .html
+# chỉ 1 file .html
 # chỉ 1 file .js
